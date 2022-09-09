@@ -17,6 +17,7 @@ import com.test.electronic.service.ElectronicService;
 @RestController
 public class ElectronicController {
 	
+	
 	@Autowired
 	private ElectronicService eleservice;
 	
